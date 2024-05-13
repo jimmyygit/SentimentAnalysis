@@ -4,7 +4,7 @@
 - Install jupyter notebook and run `jupyter notebook`
 - Install dependencies
 
-## Exampe model
+## Example model
 - Sentiment Analysis of tweets using Keras
 - comparing the use of TF-IDF vectorization and embeddings, testing against simple neural network and RNNs
 ```
